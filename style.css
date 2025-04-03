@@ -1,0 +1,18 @@
+        .hero {
+            background-color: #f3e5ab;
+            padding: 50px 20px;
+            text-align: center;
+        }
+        .hero img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .btn-custom {
+            background-color: #6f4e37;
+            color: white;
+            border: none;
+        }
+        .btn-custom:hover {
+            background-color: #563c29;
+        }
